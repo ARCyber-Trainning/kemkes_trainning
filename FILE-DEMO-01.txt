@@ -1,3 +1,5 @@
 INI FILE DEMO-01 yang dibuat oleh SI Agus
 
-PERUBAHAN PADA ISI FILE INI TERDAPAT PADA KATA "si" yang sebelumnya menggunakan Huruf kecil memjadi HURUF BESAR
+PERUBAHAN PADA FILE INI TERDAPAT PADA KATA "si" yang sebelumnya menggunakan Huruf kecil memjadi HURUF BESAR
+
+ADA PERUBAHAN ISI FILE INI YANG DILAKUKAN OLEH SI BADU
